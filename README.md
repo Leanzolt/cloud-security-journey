@@ -4,7 +4,7 @@ Welcome to my professional repository where I document my progress, labs, and te
 
 ## 👤 About Me
 - **Name:** Leandro Fabian Zenteno Soliz
-- **Current Focus:** Cloud Security & Pentesting
+- **Current Focus:** Cloud Security 
 - **Operating Systems:** Arch Linux / Ubuntu 🐧
 - **Goal:** Get a job in the cybersecurity field within 6 months.
 
